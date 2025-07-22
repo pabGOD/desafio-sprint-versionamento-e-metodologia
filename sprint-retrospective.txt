@@ -1,0 +1,25 @@
+* Sprint Retrospective:
+Achei o processo de criação do repositório GITHUB,  branch’s, commit’s, push’s e até a criação da chave SSH no meu Computador Local fases tranquilas, realizei sem dificuldades aparente.
+
+
+* Alterações que realizei:  
+Modifiquei a seção de veículos com destaque com cores vibrantes para os modelos:
+<font color="#0000AA">Ranger</font>
+<font color="#0000AA">Territory</font>
+<font color="#0000AA">Bronco Sport</font>
+<font color="#0000AA">Mustang Mach 1</font>
+E também fiz a alteração nos links para contato, possivel ver as alterações na propria branch contato.
+<li> <a href="index.html">Principal</a> </li>
+<li> <a href="veiculos.html"> Veículos em oferta </a></li>
+<li> <a href="contato.html"> Como falar conosco</a></li>
+
+* Possíveis melhorias:
+Incluir Possíveis fotos dos veiculos para chamar a atenção de potenciais compradores.
+Deixar mais aparente as vantagens do veiculo.
+Melhorar desing de contraste na parte de link, até possivel colocar um background-color.
+
+
+* Pontos fortes:
+Deixamos destacadas cores vibrantes para chamar atenção de clientes.
+Especificamos alguns dos modelos disponíveis.
+Organizamos em lista (li) para ficar mais atrativo.
