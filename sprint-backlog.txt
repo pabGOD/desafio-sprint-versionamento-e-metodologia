@@ -1,0 +1,38 @@
+Sprint Backlog - Desafio Versionamento e Metodologia
+
+Melhorar a experiência do usuário no portal de veículos, otimizando a visualização de informações e a navegação, e adicionando recursos visuais para atrair potenciais compradores.
+
+Histórias de Usuário e Tarefas
+
+HU 1: Visualização Aprimorada de Veículos
+
+Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes dos veículos na cor azul para me proporcionar uma melhor experiência de usuário.
+
+•
+ID: 1
+Prioridade: Alta
+
+Estimativa: 8 horas
+Tarefas:
+Verificar se a alteração da cor da fonte para azul (#0000AA) já está implementada no index.html.
+Validar a aplicação da cor em diferentes navegadores.
+Garantir que a alteração não impacta negativamente a legibilidade.
+
+
+HU 3: Links Detalhados na Página de Contato
+
+Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha navegação no portal.
+ID: 3
+Prioridade: Média
+Estimativa: 4 horas
+
+Tarefas:
+Revisar o texto dos links na página contato.html.
+Reescrever os textos dos links para serem mais descritivos e claros (ex: de "Principal" para "Página Inicial do Portal").
+Atualizar o contato.html com os novos textos dos links.
+Validar a clareza e o entendimento dos novos links.
+Melhorias da Retrospectiva (Itens de Ação)
+Observações:
+As estimativas são preliminares e podem ser ajustadas durante o planejamento do sprint.
+O time deve realizar um refinamento contínuo do backlog para detalhar as histórias e tarefas.
+
